@@ -1,0 +1,41 @@
+header div{
+  background: #B72A2A;
+  align-content: center;
+  height: 10%;  
+}
+#vacio{
+  min-height: 150px;  
+}
+#imgrs{
+  margin-top: 102px;
+}
+
+}
+nav {
+  height: 30px;
+  background-color: #60BAEB;
+  text-align: center;
+  align-items: center;
+}
+#section{
+  background-color: #EBDEBA;
+}
+#buscar1{
+  margin-top: 20px;
+  margin-bottom: 20px
+} 
+body{
+  background-color: #050505;
+}
+li{
+  margin-right: 75px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+
+
